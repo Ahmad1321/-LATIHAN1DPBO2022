@@ -16,7 +16,7 @@ public class data{
     }
 
     // set dan get
-    public void settim(String nama)
+    public void settim(String tim)
     {
         this.tim = tim;
     }
@@ -35,7 +35,7 @@ public class data{
         return this.negara;
     }
 
-    public void tahun(int tahun)
+    public void settahun(int tahun)
     {
         this.tahun = tahun;
     }
