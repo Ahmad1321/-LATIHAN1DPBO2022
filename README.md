@@ -12,7 +12,7 @@ Adapun Format Tugas Yang diberikan berupa:
 Membuat program untuk membuat daftar mahasiswa yang memiliki atribut NIM, Nama, Jenis Kelamin, Program Studi, dan Semester, menggunakan bahasa PHP.
 
 ## Tugas B
-Membuat program untuk membuat daftar tim sepakbola yang memiliki atribut nama tim, negara asal tim, tahun berdiri tim, serta pemain, menggunakan setiap bahasa (C++, PHP, Python dan Java).
+Membuat program untuk membuat daftar tim sepakbola yang memiliki atribut nama tim, negara asal tim, tahun berdiri tim, serta pemain(saya artikan sebagai jumlah pemain), menggunakan setiap bahasa (C++, PHP, Python dan Java).
 
 ## Deskripsi Tugas
 Untuk solusi pada kedua tugas ini sendiri hampir sama yakni dengan
