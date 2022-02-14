@@ -18,8 +18,10 @@ Membuat program untuk membuat daftar tim sepakbola yang memiliki atribut nama ti
 Untuk solusi pada kedua tugas ini sendiri hampir sama yakni dengan
 - Buatkan 2 buat file berupa main dan data class
 - Setelah itu buat class berupa daftar mahasiswa pada file data class masing-masing tugas
-- Buatkan variabel yang dibutuhkan
+- Deklarasi attribut(variabel) yang dibutuhkan
+- Construct
 - Buatkan methodnya berupa set untuk mengisi nilai variabel, get untuk mengambil nilai variabel, dan print output untuk menampilkan output nilai
+- Destruct jika dibutuhkan
 - Print output data di file main masing-masing tugas
 
 ## Bahasa yang digunakan
