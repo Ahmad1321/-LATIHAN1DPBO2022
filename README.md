@@ -32,6 +32,5 @@ Model eksekusi yang saya gunakan pada tugas ini saya menggunakaan compiler dari 
 sedangkan untuk php menggunakan server apache dari xampp
 
 ## Hasil Eksekusi
--Tugas A
-![](ss/Screenshot (252).png)
+Untuk hasil eksekusi sendiri dapat dilihat di folder ss pada respitory ini
 
