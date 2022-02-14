@@ -2,7 +2,7 @@
 
 class data
 {
-	
+	//Deklarasi Variabel
 	private $tim = "";
 	private $negara = "";
 	private $tahun = 0;
@@ -48,7 +48,7 @@ class data
 	
 	//output print
 	public function output(){
-		echo "Nama Tim      : ". $this->gettim(). "<br/>";
+	echo "Nama Tim      : ". $this->gettim(). "<br/>";
         echo "Asal Negara   : ". $this->getnegara(). "<br/>";
         echo "Tahun Berdiri : ". $this->gettahun(). "<br/>";
         echo "Jumlah Pemain : ". $this->getjumlah(). "<br/>";
