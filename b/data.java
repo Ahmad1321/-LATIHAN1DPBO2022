@@ -1,4 +1,5 @@
 public class data{
+    // Deklarasi variabel
     private String tim;
     private String negara;
     private int tahun;
@@ -55,7 +56,7 @@ public class data{
     }
 
     // output
-    public void printOut()
+    public void output()
     {
         System.out.println("Nama Tim      : " + this.gettim());
         System.out.println("Asal Negara   : " + this.getnegara());
