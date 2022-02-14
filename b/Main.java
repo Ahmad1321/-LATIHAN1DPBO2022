@@ -6,7 +6,9 @@ public class Main
     {
         // menggunakan construct
         data a = new data("Real Madrid", "Spanyol", 1902, 25);
-		a.printOut();
+	
+	//Output
+	a.printOut();
         System.out.println();
 		
         // menggunakan set
@@ -15,7 +17,8 @@ public class Main
         b.setnegara("England");
         b.settahun(1892);
         b.setjumlah(34);
-
+	
+	//Output
         b.printOut();
     }
 }
