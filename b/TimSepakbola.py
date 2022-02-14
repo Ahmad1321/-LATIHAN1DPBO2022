@@ -1,4 +1,5 @@
 class data():
+    #Deklarasi Variabel
     __tim = ""
     __negara = ""
     __tahun = 0
@@ -36,7 +37,7 @@ class data():
     def getjumlah(self):
         return self.__jumlah
 
-    # output
+    # print output
     def output(self):
         print("Nama Tim         : " + str(self.__nama))
         print("Asal Negara      : " + str(self.__asalNegara))
