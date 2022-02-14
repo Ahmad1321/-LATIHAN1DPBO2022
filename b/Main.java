@@ -8,7 +8,7 @@ public class Main
         data a = new data("Real Madrid", "Spanyol", 1902, 25);
 	
 	//Output
-	a.printOut();
+	a.output();
         System.out.println();
 		
         // menggunakan set
@@ -19,6 +19,6 @@ public class Main
         b.setjumlah(34);
 	
 	//Output
-        b.printOut();
+        b.output();
     }
 }
