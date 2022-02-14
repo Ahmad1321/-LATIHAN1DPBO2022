@@ -5,12 +5,14 @@ using namespace std;
 
 class data{
 	private:
+		//Deklarasi variabel
 		string tim;
 		string negara;
 		int tahun;
 		int jumlah;
 	
 	public:
+		//Construct
 		data(){}
 		
 		data(string tim, string negara, int tahun, int jumlah){
@@ -20,10 +22,11 @@ class data{
 			this->jumlah = jumlah;
 		}
 		
+		//Set dan Get
 		void settim(string tim)
-        {
-            this->tim = tim;
-        }
+		{
+		    this->tim = tim;
+		}
 		string gettim(){
 			return this->tim;
 		}
@@ -49,6 +52,7 @@ class data{
 			return this->jumlah;
 		}
 		
+		//Print Output
 		void output(){
 			cout << "Nama Tim      : " << this->gettim() << endl;
 			cout << "Negara Asal   : " << this->getnegara() << endl;
